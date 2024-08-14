@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "@aws-sdk/client-lambda": "^3.629.0",
+    "@types/aws-lambda": "^8.10.143",
     "dotenv-cli": "^7.4.2",
     "serverless-dotenv-plugin": "^6.0.0",
     "serverless-plugin-typescript": "^2.1.5",
